@@ -235,7 +235,6 @@ Note:
 ## Work on pipelines
 
 ```bash
-cd mq01-src
 git checkout pipelines
 ```
 
