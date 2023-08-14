@@ -353,6 +353,8 @@ tkn pipelinerun logs ,mq-dev-pipeline-run-xxxxx -n mq01-dev -f
 
 Show progress in `tkn` command line tool?
 
+Note: The first run of the pipeline may take some time to run becuase it have to build all the images...
+
 ## Try out service using API tool
 
 Now that the `mq01` queue manager is running the BookingService, we can test it.
